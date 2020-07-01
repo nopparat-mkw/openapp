@@ -14,7 +14,19 @@ function App() {
 				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
 					Learn React
 				</a>
-				<OpenApp href="https://twitter.com/enzo_ferey">Twitter</OpenApp>
+				<br />
+				<br />
+				<OpenApp
+					href="https://online.kasikornbankgroup.com/K-Online/login.jsp?lang=TH"
+					android="https://play.google.com/store/apps/details?id=com.kasikorn.retail.mbanking.wap"
+					ios="https://apps.apple.com/th/app/k-plus/id361170631"
+				>
+					Kasikorn
+				</OpenApp>
+				<br />
+				<OpenApp href="https://play.google.com/store/apps/details?id=com.kasikorn.retail.mbanking.wap">
+					Kasikorn
+				</OpenApp>
 			</header>
 		</div>
 	)
